@@ -1,0 +1,16 @@
+$mainColor :blue;
+$font-size:3rem;
+
+@import'navbar';
+@mixin title($m) {
+    
+}
+p{font-size:30px;
+    @include title(red);
+}
+
+h1{font-size:$font-size;
+    color:$mainColor;
+    display: flex;
+    background-color:yellow;
+}

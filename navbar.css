@@ -1,0 +1,14 @@
+nav ul {
+  text-align: center;
+  list-style: none;
+}
+
+nav li {
+  padding: 25px;
+  display: inline-block;
+}
+
+nav a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=navbar.css.map */

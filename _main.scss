@@ -1,0 +1,40 @@
+h2{
+    padding:20px;
+    color:#ff4d4d;
+}
+main{
+    .mai{padding:0 0 10px 20px;
+        color:black;
+        font-size:16px;
+        line-height: 1;
+       
+    }
+    .btn{border:1px solid #ff4d4d;
+        position: absolute;
+    top:110%;
+    right:20%;
+    background-color: white;
+
+    }
+}
+
+.container{display:grid;
+grid-template-columns: auto auto ;
+
+padding:10%;
+background-color:#f0f5ea;
+}
+
+
+.back1{max-width:100%;
+padding-top:20px;
+    background-color:#f0f5ea;
+  
+
+}
+.back2{padding-top:20px;
+   max-width:100%;
+    background-color:#f0f5f5;
+}
+.con{height: 150px;
+    padding-left:20%;}

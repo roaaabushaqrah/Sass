@@ -1,0 +1,27 @@
+nav ul {
+  text-align: center;
+  list-style: none;
+}
+
+nav li {
+  padding: 25px;
+  display: inline-block;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: blue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: yellow;
+}
+/*# sourceMappingURL=ll.css.map */
